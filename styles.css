@@ -1,0 +1,119 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+
+
+body {
+    background-color: f1f1f1;
+    color: 0f141e
+
+    font-size 16px;
+    /* font-weight: normal; */
+    font-family: 'Roboto', sans-serif;
+
+}
+
+.avatar {
+    width: 400px;
+    border-radius: 50px;
+    box-shadow: 17px 17px 14px rgba(0, 0, 0, 0 25);
+}
+
+a {
+    color: black;
+    text-decoration: none;
+}
+
+a:hover{
+    text-decoration:underline;
+}
+
+a:active{
+    color:chocolate
+}
+
+a:visited{
+    color: grey;
+}
+
+.info {
+    margin-bottom: 20px;
+    
+}
+
+.card h2 {
+    margin-bottom: 10px;
+}
+
+
+
+
+.info p {
+margin: 0;
+}
+
+
+.contauer {
+max-width: 750px;
+margin: auto;
+}
+
+
+
+
+
+
+/* .vk {
+background: green;
+border: 5px solid red;
+margin: 2opx;
+padding: 15px 40px;
+} */
+
+/* .box-model > div {
+background: black;
+height: 200px;
+width: 20%;
+float:left
+} */
+
+.bg-yellow {
+    background: #c9f5ee;
+}
+
+.bg-green {
+    background: #cdffd3;
+}
+
+.bg-red {
+    background: #fccdcd;
+}
+
+
+
+
+
+.card {
+padding: 15px 20px;
+margin-bottom: 20px;
+border-radius: 29px;
+}
+
+.list {
+    padding: 0 20px;
+}
+
+.table {
+    width: 100%;
+}
+
+.table td {
+    margin-bottom: 10px;
+}
+.table td:nth-child(2) {
+    color: grey;
+}
+
+.contact h2 {
+    text-align: center;
+}
+
+
